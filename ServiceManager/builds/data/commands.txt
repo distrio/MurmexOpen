@@ -1,2 +1,0 @@
-LabVIEW	"%s" id=%s
-Matlab	build\\%s.exe "id=%s"
