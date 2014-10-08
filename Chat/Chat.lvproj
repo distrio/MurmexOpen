@@ -554,6 +554,7 @@
 				<Property Name="App_copyErrors" Type="Bool">true</Property>
 				<Property Name="App_INI_aliasGUID" Type="Str">{1F02996B-126F-4ED2-862B-A51F5329CB83}</Property>
 				<Property Name="App_INI_GUID" Type="Str">{50955AE6-B52D-436E-8AEA-3296D03D27B5}</Property>
+				<Property Name="App_INI_itemID" Type="Ref">/My Computer/Chat.lvclass/type definitions/Chat.ini</Property>
 				<Property Name="Bld_buildCacheID" Type="Str">{217191E5-D917-4EB7-8852-CCC6B3237443}</Property>
 				<Property Name="Bld_buildSpecName" Type="Str">Chat</Property>
 				<Property Name="Bld_excludeInlineSubVIs" Type="Bool">true</Property>
@@ -573,7 +574,7 @@
 				<Property Name="DestinationCount" Type="Int">2</Property>
 				<Property Name="Exe_cmdLineArgs" Type="Bool">true</Property>
 				<Property Name="Exe_iconItemID" Type="Ref">/My Computer/distrio.ico</Property>
-				<Property Name="Source[0].itemID" Type="Str">{58B38F2B-AB0E-49BA-8B90-81F5363957F0}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{D35C5997-655A-4F49-8BBF-262DD272EA23}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/My Computer/Chat.lvclass/Main.vi</Property>
@@ -583,7 +584,7 @@
 				<Property Name="TgtF_autoIncrement" Type="Bool">true</Property>
 				<Property Name="TgtF_companyName" Type="Str">Distrio</Property>
 				<Property Name="TgtF_fileDescription" Type="Str">Chat</Property>
-				<Property Name="TgtF_fileVersion.build" Type="Int">2</Property>
+				<Property Name="TgtF_fileVersion.build" Type="Int">3</Property>
 				<Property Name="TgtF_fileVersion.major" Type="Int">1</Property>
 				<Property Name="TgtF_internalName" Type="Str">Chat</Property>
 				<Property Name="TgtF_legalCopyright" Type="Str">Copyright © 2014 Distrio</Property>

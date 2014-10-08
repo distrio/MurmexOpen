@@ -577,7 +577,7 @@
 				<Property Name="DestinationCount" Type="Int">2</Property>
 				<Property Name="Exe_cmdLineArgs" Type="Bool">true</Property>
 				<Property Name="Exe_iconItemID" Type="Ref">/My Computer/ServiceManager.lvclass/icon/ServiceManager.ico</Property>
-				<Property Name="Source[0].itemID" Type="Str">{4453685F-BC70-4995-8809-326C861CCB43}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{BB9CB303-6705-42EA-AB40-4DFC4ECD87A3}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/My Computer/ServiceManager.lvclass/Main.vi</Property>
@@ -590,7 +590,7 @@
 				<Property Name="TgtF_autoIncrement" Type="Bool">true</Property>
 				<Property Name="TgtF_companyName" Type="Str">Distrio</Property>
 				<Property Name="TgtF_fileDescription" Type="Str">ServiceManager</Property>
-				<Property Name="TgtF_fileVersion.build" Type="Int">3</Property>
+				<Property Name="TgtF_fileVersion.build" Type="Int">5</Property>
 				<Property Name="TgtF_fileVersion.major" Type="Int">1</Property>
 				<Property Name="TgtF_internalName" Type="Str">ServiceManager</Property>
 				<Property Name="TgtF_legalCopyright" Type="Str">Copyright © 2014 Distrio</Property>
