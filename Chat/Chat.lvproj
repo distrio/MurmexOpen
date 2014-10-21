@@ -543,7 +543,6 @@
 			<Item Name="DOMUserDefRef.dll" Type="Document" URL="DOMUserDefRef.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
-			<Item Name="lvanlys.dll" Type="Document" URL="/&lt;resource&gt;/lvanlys.dll"/>
 			<Item Name="RabbitMQ.Client.dll" Type="Document" URL="../../../LabbitMQ/RabbitMQ.Client.dll"/>
 			<Item Name="System.Windows.Forms" Type="Document" URL="System.Windows.Forms">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
@@ -584,7 +583,7 @@
 				<Property Name="TgtF_autoIncrement" Type="Bool">true</Property>
 				<Property Name="TgtF_companyName" Type="Str">Distrio</Property>
 				<Property Name="TgtF_fileDescription" Type="Str">Chat</Property>
-				<Property Name="TgtF_fileVersion.build" Type="Int">3</Property>
+				<Property Name="TgtF_fileVersion.build" Type="Int">4</Property>
 				<Property Name="TgtF_fileVersion.major" Type="Int">1</Property>
 				<Property Name="TgtF_internalName" Type="Str">Chat</Property>
 				<Property Name="TgtF_legalCopyright" Type="Str">Copyright © 2014 Distrio</Property>

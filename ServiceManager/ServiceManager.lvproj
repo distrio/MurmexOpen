@@ -546,6 +546,9 @@
 				<Item Name="Write To Spreadsheet File (string).vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Write To Spreadsheet File (string).vi"/>
 				<Item Name="Write To Spreadsheet File.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Write To Spreadsheet File.vi"/>
 			</Item>
+			<Item Name="DOMUserDefRef.dll" Type="Document" URL="DOMUserDefRef.dll">
+				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
+			</Item>
 			<Item Name="Murmex.lvlib" Type="Library" URL="../../../Murmex/LabVIEW/Murmex/Murmex.lvlib"/>
 			<Item Name="RabbitMQ.Client.dll" Type="Document" URL="../../../LabbitMQ/RabbitMQ.Client.dll"/>
 			<Item Name="System.Windows.Forms" Type="Document" URL="System.Windows.Forms">
@@ -590,7 +593,7 @@
 				<Property Name="TgtF_autoIncrement" Type="Bool">true</Property>
 				<Property Name="TgtF_companyName" Type="Str">Distrio</Property>
 				<Property Name="TgtF_fileDescription" Type="Str">ServiceManager</Property>
-				<Property Name="TgtF_fileVersion.build" Type="Int">5</Property>
+				<Property Name="TgtF_fileVersion.build" Type="Int">6</Property>
 				<Property Name="TgtF_fileVersion.major" Type="Int">1</Property>
 				<Property Name="TgtF_internalName" Type="Str">ServiceManager</Property>
 				<Property Name="TgtF_legalCopyright" Type="Str">Copyright © 2014 Distrio</Property>
