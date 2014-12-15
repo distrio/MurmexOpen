@@ -62,7 +62,7 @@
 			<Item Name="ExampleClassDScaffold.lvclass" Type="LVClass" URL="../ExampleClassDScaffold/ExampleClassDScaffold.lvclass"/>
 			<Item Name="ExampleClassDEdge.lvclass" Type="LVClass" URL="../ExampleClassDEdge/ExampleClassDEdge.lvclass"/>
 			<Item Name="ExampleClassDInverse.lvclass" Type="LVClass" URL="../ExampleClassDInverse/ExampleClassDInverse.lvclass"/>
-			<Item Name="ExampleClassDMath.lvclass" Type="LVClass" URL="../ExampleClassDMath/ExampleClassDKaleidoscope/ExampleClassDMath.lvclass"/>
+			<Item Name="ExampleClassDMath.lvclass" Type="LVClass" URL="../ExampleClassDMath/ExampleClassDMath.lvclass"/>
 			<Item Name="TestExampleCD.vi" Type="VI" URL="../TestExampleCD.vi"/>
 		</Item>
 		<Item Name="Dependencies" Type="Dependencies">
@@ -616,12 +616,6 @@
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
 			<Item Name="DOMUserDefRef.dll" Type="Document" URL="DOMUserDefRef.dll">
-				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
-			</Item>
-			<Item Name="nivissvc.dll" Type="Document" URL="nivissvc.dll">
-				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
-			</Item>
-			<Item Name="nivision.dll" Type="Document" URL="nivision.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
 		</Item>
